@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\varun\source\repos\gif\gif\Source.c(33,36): warning C4047: '==': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\varun\source\repos\gif\gif\Source.c(47,41): warning C4047: '==': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\varun\source\repos\gif\gif\Source.c(62,41): warning C4047: '==': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\varun\source\repos\gif\gif\Source.c(73,41): warning C4047: '==': 'int' differs in levels of indirection from 'char [2]'
+  gif.vcxproj -> C:\Users\varun\source\repos\gif\x64\Debug\gif.exe

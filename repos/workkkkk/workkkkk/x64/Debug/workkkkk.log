@@ -1,0 +1,4 @@
+﻿  w2p1.c
+C:\Users\varun\source\repos\workkkkk\workkkkk\w2p1.c(48,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\varun\source\repos\workkkkk\workkkkk\w2p1.c(49,32): warning C4244: 'initializing': conversion from 'const double' to 'int', possible loss of data
+  workkkkk.vcxproj -> C:\Users\varun\source\repos\workkkkk\x64\Debug\workkkkk.exe

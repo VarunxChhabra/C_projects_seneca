@@ -1,0 +1,13 @@
+﻿  w2p1.c
+C:\Users\varun\source\repos\Workshop_2\Workshop_2\w2p1.c(23,8): warning C4477: 'scanf' : format string '%lf' requires an argument of type 'double *', but variadic argument 1 has type 'float *'
+C:\Users\varun\source\repos\Workshop_2\Workshop_2\w2p1.c(23,8): message : consider using '%f' in the format string
+C:\Users\varun\source\repos\Workshop_2\Workshop_2\w2p1.c(25,8): warning C4477: 'scanf' : format string '%lf' requires an argument of type 'double *', but variadic argument 1 has type 'float *'
+C:\Users\varun\source\repos\Workshop_2\Workshop_2\w2p1.c(25,8): message : consider using '%f' in the format string
+C:\Users\varun\source\repos\Workshop_2\Workshop_2\w2p1.c(27,8): warning C4477: 'scanf' : format string '%lf' requires an argument of type 'double *', but variadic argument 1 has type 'float *'
+C:\Users\varun\source\repos\Workshop_2\Workshop_2\w2p1.c(27,8): message : consider using '%f' in the format string
+C:\Users\varun\source\repos\Workshop_2\Workshop_2\w2p1.c(32,35): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\varun\source\repos\Workshop_2\Workshop_2\w2p1.c(32,35): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\varun\source\repos\Workshop_2\Workshop_2\w2p1.c(34,8): warning C4473: 'scanf' : not enough arguments passed for format string
+C:\Users\varun\source\repos\Workshop_2\Workshop_2\w2p1.c(34,8): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\varun\source\repos\Workshop_2\Workshop_2\w2p1.c(34,8): message : the missing variadic argument 1 is required by format string '%d'
+LINK : fatal error LNK1168: cannot open C:\Users\varun\source\repos\Workshop_2\x64\Debug\Workshop_2.exe for writing
